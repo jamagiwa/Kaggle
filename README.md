@@ -1,5 +1,5 @@
 # Kaggle
-Practice EDM
+Practice EDA
 ##Overview
 
 This project is personal exploration into the data analysis of Glioblastoma Multiform(GBM) data.
